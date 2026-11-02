@@ -1,4 +1,0 @@
-1.0.1 2026-11-02
-  - sub-133: task-rest and task-video EEG replaced. Version 1.0.0 held a copy of sub-134's recording under sub-133 for these two tasks. Task-memory EEG and eye tracking of sub-133 were correct and are unchanged. sub-133 task-video: the EEG between S 22 and S 23 is 223.9 s rather than 231.9 s (recorder buffer overflow during the film). A boundary event marks the overflow at 215.094 s in the file.
-1.0.0 2026-08-03
-  - first version
